@@ -28,12 +28,7 @@ Learn Python, IoT, and Basic Machine Learning in 30 days to prepare for joining 
 ## About Me
 - Background: Diploma in Electronics
 - Experience: ESP32, NodeMCU, Arduino, Sensors
-- Currently improving: Python, ML, Software skills
-
-## Progress
-- [x] Day 1: Setup Complete
-- [ ] Day 2: Variables + Data Types
-- [ ] Day 3: Conditional Statements
+- Currently improving: IOT, Web Development, Python, ML, Software skills
 
 ## Contact
 - GitHub: [purno-dev](https://github.com/purno-dev)
